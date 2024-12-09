@@ -38,7 +38,7 @@ Use case 3: Peter is a project manager.  His responsibilities include generating
 1. train and test 2 models, one for anormaly in raw material, and the other is for missing component/improperly installed component
    
    (1) upload training and testing images from data in AWS Lookout for Vision
-   ![image](https://github.com/user-attachments/assets/def93eb7-8a0f-4d65-b6c6-93118f6d3e29)
+    ![image](https://github.com/user-attachments/assets/b024a5cd-c5ba-421d-9cde-2b37c9b0186a)
 
 
    (2) generate data model and test it
