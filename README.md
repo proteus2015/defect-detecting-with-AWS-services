@@ -45,4 +45,6 @@ Use case 3: Peter is a project manager.  His responsibilities include generating
     ![image](https://github.com/user-attachments/assets/ed438c1d-7e40-4f01-a484-2f7406be36a5)
 
 
-2. 
+2. deploy 2 lambda functions, one is triggered by S3 to call data model (in this project is calling material anormaly model); and the other is triggered by SQS to process anormaly message
+
+3. load a new material image to S3 to trigger the process automatically
