@@ -48,3 +48,8 @@ Use case 3: Peter is a project manager.  His responsibilities include generating
 2. deploy 2 lambda functions, one is triggered by S3 to call data model (in this project is calling material anormaly model); and the other is triggered by SQS to process anormaly message
 
 3. load a new material image to S3 to trigger the process automatically
+
+   This is an example result by calling the model to detect a new S3 image:
+
+   <img width="697" alt="process pipeline - Lambda 1" src="https://github.com/user-attachments/assets/945d1e3e-c6a5-423b-8139-5d4d0c553f93">
+
